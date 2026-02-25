@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Escadinha 3 Andares MDF",
+    "price": "59,90",
+    "category": "Festa",
+    "image": "assets/escadinha.jpg",
+    "shopeeLink": "https://shopee.com.br/seu-link-aqui"
+  },
+  {
+    "name": "Suporte Porta Shampoo Preto",
+    "price": "39,90",
+    "category": "Banheiro",
+    "image": "assets/suporte.jpg",
+    "shopeeLink": "https://shopee.com.br/seu-link-aqui"
+  }
+]
